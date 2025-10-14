@@ -1,2 +1,1 @@
-#Projeto1
-Projeto1
+import matplotlib.pyplot as plt
